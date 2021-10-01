@@ -1,6 +1,6 @@
 # SSOO-tarea01
 # Diseño de la solución,
-Para el desarrollo del "enunciado A", utilice el comando ***man*** para obtener detalles hacerca de los comandos consultados y fui probando combinaciones para los ejemplos.
+Para el desarrollo del "enunciado A", utilice el comando ***man*** para obtener detalles acerca de los comandos consultados y fui probando combinaciones para los ejemplos.
 
 Para el "enunciado B" combine mi conociemineto acerca de los metacaracteres con una busqueda de información para llegar a una respuesta.
 
