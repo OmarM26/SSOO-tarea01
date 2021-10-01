@@ -1,5 +1,5 @@
 # SSOO-tarea01
-# Diseño de la solución
+# Diseño de la solución,
 Para el desarrollo del "enunciado A", utilice el comando ***man*** para obtener detalles hacerca de los comandos consultados y fui probando combinaciones para los ejemplos.
 
 Para el "enunciado B" combine mi conociemineto acerca de los metacaracteres con una busqueda de información para llegar a una respuesta.
@@ -21,3 +21,4 @@ Para el ultimo problema del trabajo, busque documentación acerca de BASH y con 
 
 >Finalmente en la ultima linea del codigo se consiguen mostrar las primeras 10 lineas del archivo "status"; Con el comando head que como argumento se le entrega dirección en la que se encuentra el archivo y que mediante la interconexión mediante pipes con el comando echo se puede visualizar el contenido de este.
 
+## Autor: Omar Martínez Tobar Correo: omar.martinez@alumnos.uv.cl
